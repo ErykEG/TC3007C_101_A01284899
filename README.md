@@ -1,105 +1,111 @@
 # Directorio de Evidencias
 
-## <u> Portafolio de Implementación </u>
+## <u> E1 - Portafolio de Análisis </u>
 
-### Módulo 1 - Estadística (SMA0101)
+### M1 - Big Data
 
-- **Actividades de Clase**
+- **Actividades**
 
-  - **Ruta:** Portafolio Implementación/Módulo 1 - Estadística (SMA0101)/Actividades de Clase
+  - 1.- Instalación de Spark en AWS
 
-    - Actividad 6. Distribuciones Muestrales y TCL (pdf)
+  - 2.- Terminal y Putty
 
-    - Actividad 7. Intervalos de confianza (pdf)
+  - 3.- Filezilla o Cyberduck
 
-    - Actividad 8. Pruebas de hipótesis (pdf)
+  - 4.- Base de datos
 
-    - Actividad 9. ANOVA (pdf)
+  - 5.- Diagrama relacional
 
-    - Actividad 10. Regresión lineal (pdf)
+  - 6.- Instalación MySQL
 
-    - Actividad 11. Regresión lineal con Interacción (pdf)
+### M5 - Estadística avanzada para la ciencia de datos
 
-    - Actividad 12. Verificación del modelo e intervalos de confianza (pdf)
-
-- **Actividad Integradora 2**
-
-  - **Ruta:** Portafolio Implementación/Módulo 1 - Estadística (SMA0101)/Actividad Integradora 2
-
-    - Actividad Integradora 2 (pdf)
-
-### Módulo 2 - Machine Learning (SMA0401)
+- **Actividades**
 
 - **Actividad Integradora 1**
 
-  - **Ruta:** Portafolio Implementación/Módulo 2 - Machine Learning (SMA0401)/Actividad Integradora 1
+### Reto
 
-    - Actividad Integradora 1 (pdf)
+- **Actividades**
+
+  - Asistencia_Platica
+
+  - Investigacion_Inicial_Equipo1
+
+  - PreguntasIniciales_Equipo1
+
+  - PrimerasPreguntas_Equipo1
+
+  - ReporteAnalisisInicial_Equipo1
+
+  - Reto_Entendimiento_del_Problema
+
+  - Reto_Metodología_del_Problema
+
+  - RetoV3-2
+
+  - TC3007C_Reto_Codigo
+
+## <u> E2 - Portafolio de Implementación </u>
+
+### M2 - Técnicas y arquitecturas de deep learning
+
+- **Actividades**
+
+  - 1.- Numpy, Pandas, Matplotlib
+
+  - 2.- Student Performance
+
+  - 3.- Student Performance Profiles
+
+  - 4.- Weather Forecasting
+
+  - 5.- Investigate and Present
+
+  - 6.- Practica Examen Conceptos
+
+  - 7.- Feature Selection
+
+  - 8.- Dense, Dropout, Batch Normalization
+
+### M3 - Herramientas para el procesamiento del lenguaje natural
+
+- **Actividades**
+
+  - 1.- Clasificación de email de spam pre-procesamiento y baselines
+
+  - 2.- Investigación de TF-IDF y Laplace Smoothing
+
+  - 3.- Clasificación de sentimientos de películas -Baseline
+
+  - 4.- Investigación II de N-gramas
+
+  - 6.- Clasificación de texto con Word Embeddins pre-entrenados 1
+
+  - 6.- Clasificación de texto con Word Embeddins pre-entrenados 2
+
+  - BERT notebook actividades 1
+
+  - BERT notebook actividades 2
+
+  - Chatbot Q&A basado en TF-IDF y cosine similarity
+
+  - Investigación II de N-gramas
+
+### M5 - Estadística avanzada para la ciencia de datos
+
+- **Actividades**
 
 - **Actividad Integradora 2**
 
-  - **Ruta:** Portafolio Implementación/Módulo 2 - Machine Learning (SMA0401)/Actividad Integradora 2
+## <u> Reporte de Reto </u>
 
-    - Actividad Integradora 2 (pdf)
+- **Actividades**
 
-## <u> Portafolio de Análisis </u>
+  - Entrega0_A01284899
 
-### Módulo 1 - Estadística (SMA0102)
+  - Reto_Entendimiento_del_Probema
 
-- **Actividades de Clase**
+  - Reto_Metodología_del_Probema
 
-  - **Ruta:** Portafolio de Análisis/Módulo 1 - Estadística (SMA0102)/Actividades de Clase
-
-    - Actividad 1: La variable discreta: Unos problemillas (pdf)
-
-    - Actividad 2: La variable continua: Unos problemillas (pdf)
-
-    - Actividad 3. Algunas distribuciones de probabilidad (pdf)
-
-    - Actividad 4. Explorando bases (pdf)
-
-    - Actividad 5. Transformaciones (pdf)
-
-- **Actividad Integradora 1**
-
-  - **Ruta:** Portafolio de Análisis/Módulo 1 - Estadística (SMA0102)/Actividad Integradora 1
-
-    - Actividad Integradora 1 (pdf)
-
-### Módulo 2 - Machine Learning (SMA0104)
-
-- **Actividad Integradora 3**
-
-  - **Ruta:** Portafolio de Análisis/Módulo 2 - Machine Learning (SMA0104)/Actividad Integradora 3
-
-    - Actividad Integradora 3 (pdf)
-
-### Reto (SEG0403)
-
-- **Reporte de Ética y Normatividad**
-
-  - **Ruta:** Portafolio de Análisis/Reto (SEG0403)/Reporte de Ética y Normatividad
-
-    - Reporte de Ética y Normatividad (pdf)
-
-## <u> Solución del Reto </u>
-
-- **Entrega Final**
-
-  - **Ruta:** Solución del Reto/Entrega Final
-
-    - Solución del Reto Equipo 5 (Jupyter)
-
-- **Hardware**
-
-  - **Ruta:** Solución del Reto/Hardware
-
-    - IoT (pdf)
-
-## Cambios Realizados
-
-- Crear carpeta de "Evidencia 1" y colocar el archivo S7_P1_TC3006C_101_SMA0401A_E1_A01284899.pdf y .ipynb dentro.
-
-- Actualizar README del repositorio para mostrar estructura de arbol de archivos.
-
-- Actualizar README para mostrar ruta a evidencias
+  - RetoV3-2
