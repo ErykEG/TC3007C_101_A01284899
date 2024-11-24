@@ -18,6 +18,14 @@
 
   - 6.- Instalación MySQL
 
+### M4 - Cómputo en la Nube
+
+- **Evidencias**
+
+  - Evidencia Portafolio - Módulo cloud computing
+
+  - Diseño de Arquitectura en la Nube
+
 ### M5 - Estadística avanzada para la ciencia de datos
 
 - **Actividades**
